@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ID Manager</string>
+    <string name="hint_for_number">please enter id you want to check</string>
+    <string name="plain_text_value">Enter ID You Want To Check</string>
+    <string name="button_value">CHECK</string>
+    <string name="textview"> </string>
+    <string name="hi">Hello Welcome To ID Manager 🐼🐼</string>
+    <string name="dob">\"Date of Birth : \"</string>
+    <string name="gend">Gender :</string>
+    <string name="naton">Nationality :</string>
+    <string name="newline">\n</string>
+</resources>
